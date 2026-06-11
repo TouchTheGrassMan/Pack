@@ -1,0 +1,7 @@
+
+[JEI]
+	#В JEI будет добавлена категория покрытия сажей.
+	SootCoveringCategory = true
+	#В JEI будет добавлена категория снятия сажи.
+	SootScrapingCategory = true
+

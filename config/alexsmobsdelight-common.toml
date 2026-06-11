@@ -1,0 +1,32 @@
+
+["Вечная чайка"]
+	#Задаёт перезарядку вечной жареной чайки в тиках.
+	#Range: > 0
+	EatCooldown = 160
+	#Список вечной еды, которую можно использовать для превращения вечной жареной чайки.
+	EternalFoodItems = ["alexsmobsdelight:eternal_cooked_seagull", "alexsmobsdelight:enchanted_eternal_cooked_seagull"]
+
+["Крокодилий карамбит"]
+	#Задаёт шанс получения добычи при атаке крокодильим карамбитом.
+	#Range: 0 ~ 100
+	LootingChance = 20
+	#Крокодилий карамбит начнёт снижать шанс добычи, когда lootingHealth * yourMaxHealth < targetsMaxHealth.
+	#Когда lootingHealth * yourMaxHealth * 2 < targetsMaxHealth, шанс получить добычу будет равен нулю.
+	#Range: 0.0 ~ 20.0
+	LootingHealth = 2.0
+	#Если включено, крокодилий карамбит будет получать всю добычу, а не один случайный предмет.
+	LootingAllItems = false
+	#Список сущностей, с которых крокодилий карамбит никогда не сможет получить добычу.
+	LootingEntitiesBlacklist = ["alexsmobs:void_worm"]
+
+["Суп «Прыжок косатки»"]
+	#Задаёт шанс получить суп «Прыжок косатки» после кормления косатки мясом тюленя.
+	#Range: 0 ~ 100
+	GiveChance = 30
+
+["Разное"]
+	#Должны ли предметы еды в мисках из Alex's Mobs складываться до 16 штук?
+	StackableSoupItems = true
+	#Позволяет дьявольскому карпозубику из Alex's Mobs ломать блоки еды при размножении. Включить эту механику?
+	PupfishBreakFoodBlocks = true
+

@@ -1,0 +1,13 @@
+name = "PolyTech_1_20_1_forge"
+author = "TouchTheGrassMan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c6fc7efb3637b8d9c143eefd0becc5ababb420eba691ccead00753b6707fca25"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

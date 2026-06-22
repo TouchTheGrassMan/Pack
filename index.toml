@@ -1221,10 +1221,6 @@ file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
 hash = "c6073eb7423f92709aef1e934da00983f6d4e8f05508ba0daa7287600869b441"
 
 [[files]]
-file = "mods/DistantHorizons-3.1.2-b-1.20.1-fabric-forge-RU.jar"
-hash = "62accb33d78beb5481dddd65b16ebba6103ba3a0d9cb32df9e386653185236ac"
-
-[[files]]
 file = "mods/DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar"
 hash = "2ba5913026e2e4296f97aceee5fbd6ed332ed916bd84de68bda2e67742ec5ce4"
 

@@ -1293,8 +1293,8 @@ file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
 hash = "c6073eb7423f92709aef1e934da00983f6d4e8f05508ba0daa7287600869b441"
 
 [[files]]
-file = "mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge-RU-v2.jar"
-hash = "0f851a2b67349c03633536b590d51412b5af6fc45e3fddb39929052f8ccfd5af"
+file = "mods/DistantHorizons-3.1.2-b-1.20.1-fabric-forge-RU.jar"
+hash = "62accb33d78beb5481dddd65b16ebba6103ba3a0d9cb32df9e386653185236ac"
 
 [[files]]
 file = "mods/DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar"
@@ -1333,6 +1333,10 @@ file = "mods/MaFgLib-0.1.14-mc1.20.1.jar"
 hash = "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1"
 
 [[files]]
+file = "mods/Patchouli-1.20.1-85-FORGE.jar"
+hash = "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
+
+[[files]]
 file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
 hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
 
@@ -1358,7 +1362,7 @@ hash = "c77a13e3879f9f991cf592abac60ad0c6d2ed17f5ff697ec2db3872b22902d4a"
 
 [[files]]
 file = "mods/TreeChop-1.20.1-forge-0.19.0.jar"
-hash = "b3add07d4227ea021b969eedf564e55338683ad989ae1f9aa931cc2705cef319"
+hash = "aa2226cb5f3bca8d0bfeb270fd868a7aecbd421b484fb2dde11582078c4ba94c"
 
 [[files]]
 file = "mods/UndergroundVillages-forge-1.20.1-2.1.0.jar"
@@ -1411,6 +1415,14 @@ hash = "24b3bdc844755e8a39571b5000d8dd829543f7b150d154016ccd926e47d06a71"
 [[files]]
 file = "mods/ad_astra-forge-1.20.1-1.15.20.jar"
 hash = "99e274894af7c3b01622a74775a9960b5857b35951888414e733f8c2ec683f26"
+
+[[files]]
+file = "mods/adorablehamsterpets-3.6.0-1.20.1+forge.jar"
+hash = "71a90e4b0ad08321add44cd23cb70805bd4a21c32aad25428393352ee440da0c"
+
+[[files]]
+file = "mods/adorablehamsterpets-3.6.0-1.20.1-forge-RU.jar"
+hash = "867ec6d47c3d431f5c0ab5b48e44171d1d1e5c2b9cbc1c255afb96827e713de3"
 
 [[files]]
 file = "mods/alexsmobs-1.22.9.jar"
@@ -1597,6 +1609,10 @@ file = "mods/fusion-1.2.12-forge-mc1.20.1.jar"
 hash = "5cb039922e08ae6b8705d50e484a8759579025fb4f48413fa62d2056505fb45e"
 
 [[files]]
+file = "mods/fzzy_config-0.7.6+1.20.1+forge.jar"
+hash = "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e"
+
+[[files]]
 file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
 hash = "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"
 
@@ -1697,8 +1713,8 @@ file = "mods/powergrid-mc1.20.1-0.5.5.1.jar"
 hash = "ebf1b79894c0bc48ba4773d313eedf55d2eb364604a2610e2941bce58cbe1838"
 
 [[files]]
-file = "mods/private_area-0.6.4-forge-1.20.1.jar"
-hash = "ff89717ef8ec16678ad1760faab38e9a05a39dfcc6d0ac2399ab18a0d846872e"
+file = "mods/private_area-0.7.7-forge-1.20.1.jar"
+hash = "a5bf823f23caa74ed4866205787419c37e4e053d91e15afc9351c6887dc74d20"
 
 [[files]]
 file = "mods/realisticbees-1.20.1-4.2.jar"
@@ -1719,6 +1735,10 @@ hash = "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
 [[files]]
 file = "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar"
 hash = "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
+
+[[files]]
+file = "mods/serverauth-1.20.1-1.0.0.jar"
+hash = "6cb2bd0e2b4a8a0fb85a2bdd66ab5a6e0557dd6176b5909f236215cc2b48245c"
 
 [[files]]
 file = "mods/shieldexp-forge-1.20.1-1.3.7-ru.jar"
@@ -1751,6 +1771,10 @@ hash = "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
 [[files]]
 file = "mods/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar"
 hash = "6e4f3664aaa5f4138a43acb246c0d91672372acb78a02b89a0531c11596f2c1c"
+
+[[files]]
+file = "mods/synced-border-forge-1.1.4.jar"
+hash = "a74243f2bb8b64ed1ae66b3ae06e7644bc6e773eb23b11cbab97428c4a2df195"
 
 [[files]]
 file = "mods/tacz-1.20.1-1.1.8-release.jar"
@@ -1789,12 +1813,12 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = "mods/xaerominimap-forge-1.20.1-25.3.13.jar"
-hash = "107a686c1a1637998c8ce7fa2262bb8c36f24277d6b2cf4b512a0b176ff41e89"
+file = "mods/xaerominimap-forge-1.20.1-26.1.0.jar"
+hash = "529257c33bf3cacae473332e029acb1e60807cb8865a96627f2cfbcce736ab8f"
 
 [[files]]
-file = "mods/xaeroworldmap-forge-1.20.1-1.40.16.jar"
-hash = "49fbf2a0c91ca7e161b17f3b1784d4e798d0cd19f361ad3ebf6613e559f6371d"
+file = "mods/xaeroworldmap-forge-1.20.1-1.41.2.jar"
+hash = "abe167275d74585112deb55ce9a09f1472f08d7e8cfde84776c99db2584d4bda"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"

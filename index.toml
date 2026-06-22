@@ -390,7 +390,7 @@ hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 
 [[files]]
 file = "mods/language-reload-forge-1.7.5+forge-1.20.1.jar"
-hash = "f38f1e74bac9de3fdeef9aea34cd5a21dc1e3c9a1a622e25233e58313647b099"
+hash = "f70bd4bcceedd148d6be0593570ec08635bd61a38b7abe877b9a9e07d13a64bd"
 
 [[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"

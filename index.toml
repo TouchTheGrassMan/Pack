@@ -869,66 +869,6 @@ file = "config/jade/sort-order.json"
 hash = "dfdc408bed555263faa114808662a32132ceb3ea452eab31caba2727b940d4bd"
 
 [[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "b571c40fc3f6b98e85588c162383bcbc2ead4d6d81b9b5be621dcfcfde40b531"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "5a6c8729081e8fd7abaf634c9d238cab4700ef4dda04de73873edf4f6c997b3b"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "30503916553a0a302f433abd1c99a54303312cf426b7a6b49d0dff0461c82aba"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "8ef9c8cef1a7fbb93a0ea6910beb4374017c14a5f8c6fe6a7866ef623cf6a5a5"
-
-[[files]]
-file = "config/jei/world/local/1__1/lookupHistory.ini"
-hash = "6131c0df0b607bec3505d8a4953343de13d4dc4ec9e356e6a85462008258fc79"
-
-[[files]]
-file = "config/jei/world/local/The_Hanging_Gardens_Of_Azyros/lookupHistory.ini"
-hash = "82c5044b1343f5dca16e344b07ad4fbe1d7db1f7f5c64481f75d37863f1954ca"
-
-[[files]]
-file = "config/jei/world/local/_aMosslorn_v4_0_java1_20-1_20_6/bookmarks.ini"
-hash = "7e21a87e48d4ae2967fd7b4d9bfb9b66290aff612add2072d269a0b3c7e6f2bf"
-
-[[files]]
-file = "config/jei/world/local/lookupHistory.ini"
-hash = "e9a99d0d029cfdf3987283d54769bc0c7ac2ee580269f61f4ca87ac955949c64"
-
-[[files]]
-file = "config/jei/world/local/roman_houses/lookupHistory.ini"
-hash = "79d05993e040c646aafdfe126e6554b21d5bbdc62bf9556ef47afebcb875d963"
-
-[[files]]
-file = "config/jei/world/server/_______Minecraft_5f007dea/bookmarks.ini"
-hash = "87398beaae257588c3f0f01154eee91d04af992b3520d5d3b4843324e1fc9f16"
-
-[[files]]
-file = "config/jei/world/server/_______Minecraft_5f007dea/lookupHistory.ini"
-hash = "7aeee328264068a942edc439c6a65639de98682ae052d46b08ebf03bd1535e77"
-
-[[files]]
 file = "config/l2_configs/l2library-client.toml"
 hash = "bee1c76cbc66e917babe40a1fc94132bc9c227aa69e17d27417cd77dab532e74"
 
@@ -1175,18 +1115,6 @@ hash = "7885b862b10bf4b14d3103909971114a736d14a52e4a7994ace0d66a2474c14c"
 [[files]]
 file = "config/visualworkbench-client.toml"
 hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
-
-[[files]]
-file = "config/vivecraft-client-config.json"
-hash = "1399a9dce727df28aa11e181bf5141eb60076ef39b6fb518f1e5c42433c4e66f"
-
-[[files]]
-file = "config/vivecraft-server-config.toml"
-hash = "06ccdab9301db68f587ebf0495b73f6525710974c4432755771b20ed0f1a79ef"
-
-[[files]]
-file = "config/worldedit/worldedit.properties"
-hash = "e95e752ead34bd2fa86252852e0eaae2158a3c05c9dc82fd97eab19936e8e0d6"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -1707,6 +1635,10 @@ hash = "176929d5614d14e2470d59b8f19c79301295560c04b7b0f97379983f6a85afe8"
 [[files]]
 file = "mods/polytech-0.1.1-forge-1.20.1.jar"
 hash = "73c9546dcb430191002aa69e3a340c37ddf397ba8aa2dbbace4ae7f5865edff5"
+
+[[files]]
+file = "mods/polytechskins-1.0.0.jar"
+hash = "2c781ec52ae33671efe540b31639447dcb515912a9fa75902c6ec63c76e87052"
 
 [[files]]
 file = "mods/powergrid-mc1.20.1-0.5.5.1.jar"

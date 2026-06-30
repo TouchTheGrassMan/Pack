@@ -461,8 +461,8 @@ file = "mods/powergrid-mc1.20.1-0.5.5.1.jar"
 hash = "ebf1b79894c0bc48ba4773d313eedf55d2eb364604a2610e2941bce58cbe1838"
 
 [[files]]
-file = "mods/private_area-0.7.7-forge-1.20.1.jar"
-hash = "a5bf823f23caa74ed4866205787419c37e4e053d91e15afc9351c6887dc74d20"
+file = "mods/private_area-0.8.0-forge-1.20.1.jar"
+hash = "56bebad8c8b302e554757be5486f58902104009e0dcac5f1e2fef35b3cded7b5"
 
 [[files]]
 file = "mods/realisticbees-1.20.1-4.2.jar"

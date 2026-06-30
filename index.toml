@@ -486,7 +486,7 @@ hash = "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
 
 [[files]]
 file = "mods/serverauth-1.20.1-1.0.0.jar"
-hash = "6cb2bd0e2b4a8a0fb85a2bdd66ab5a6e0557dd6176b5909f236215cc2b48245c"
+hash = "473842a19ac383d9ef7f86281327dc416082f3a53ad3a0ec9c67076edfeb2bb9"
 
 [[files]]
 file = "mods/shieldexp-forge-1.20.1-1.3.7-ru.jar"
@@ -567,6 +567,10 @@ hash = "529257c33bf3cacae473332e029acb1e60807cb8865a96627f2cfbcce736ab8f"
 [[files]]
 file = "mods/xaeroworldmap-forge-1.20.1-1.41.2.jar"
 hash = "abe167275d74585112deb55ce9a09f1472f08d7e8cfde84776c99db2584d4bda"
+
+[[files]]
+file = "servers.dat"
+hash = "2578d9a6a4c4742634641592d80436ec6c05f4c8a68ab2c102e4e43156c06a72"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"

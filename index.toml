@@ -377,6 +377,10 @@ file = "mods/immersive-portals-3.0.7-all-ru-chat-filtered-v3.jar"
 hash = "57b5f6d8f95e55aa2f74b763e7f212ef038b21fe18050b488ad2f4417f9d0f5f"
 
 [[files]]
+file = "mods/ironchest-1.20.1-14.4.4.jar"
+hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
+
+[[files]]
 file = "mods/jei-1.20.1-forge-15.20.0.130.jar"
 hash = "36d3dfb2214b9dca38c447fd971dd2dedc5f69719a5aca6ffcef69b2840ece0a"
 

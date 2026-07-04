@@ -33,6 +33,10 @@ file = "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
 hash = "c6073eb7423f92709aef1e934da00983f6d4e8f05508ba0daa7287600869b441"
 
 [[files]]
+file = "mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar"
+hash = "03ae31ac7f33a8c396560bf00188ec3fe78febf77d6930dd814cf18a14a29477"
+
+[[files]]
 file = "mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge-RU-v2.jar"
 hash = "0f851a2b67349c03633536b590d51412b5af6fc45e3fddb39929052f8ccfd5af"
 
@@ -59,6 +63,10 @@ hash = "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f"
 [[files]]
 file = "mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
 hash = "da781a31b2c8d8a845ed48c89b6463f1df3f2c655de10d8d4f5bed8123ff68a8"
+
+[[files]]
+file = "mods/InventorySorter-1.9.0-1.20.jar"
+hash = "c52f22d40e8df081df9e893bb95803cecbd40fd172bec51f5f9613d8aef676c5"
 
 [[files]]
 file = "mods/ItemsDisplayedForge-v1.3.5-1.20.1.jar"

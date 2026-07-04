@@ -65,10 +65,6 @@ file = "mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
 hash = "da781a31b2c8d8a845ed48c89b6463f1df3f2c655de10d8d4f5bed8123ff68a8"
 
 [[files]]
-file = "mods/InventorySorter-1.9.0-1.20.jar"
-hash = "c52f22d40e8df081df9e893bb95803cecbd40fd172bec51f5f9613d8aef676c5"
-
-[[files]]
 file = "mods/ItemsDisplayedForge-v1.3.5-1.20.1.jar"
 hash = "76e99afab92fd816e34aa844247ea53bd2480971f46c3562b107d40de1eb425a"
 
@@ -383,6 +379,10 @@ hash = "85ff60250d6bc54de60855e2359f7708e2d156c92ff738faa33b7b877cca5ede"
 [[files]]
 file = "mods/immersive-portals-3.0.7-all-ru-chat-filtered-v3.jar"
 hash = "57b5f6d8f95e55aa2f74b763e7f212ef038b21fe18050b488ad2f4417f9d0f5f"
+
+[[files]]
+file = "mods/inventorysorter-forge-1.20.1-1.9.0.jar"
+hash = "3c2de29e966184be53a0f39b89b58cfd75e4167dbd0101d3fecc584a8e9f8e2e"
 
 [[files]]
 file = "mods/ironchest-1.20.1-14.4.4.jar"

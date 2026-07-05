@@ -265,6 +265,10 @@ file = "mods/create-hypertube-0.4.0-forge-ru.jar"
 hash = "2084674b6e6384f2195cffd454992f69e82e4bbcd4cf9c1ba56de82a66cbf69a"
 
 [[files]]
+file = "mods/create-menu-panorama-1.0.2-forge-1.20.1.jar"
+hash = "cd1281e92229ec854503eb0cda5a080401a37afb8b89388f051e3bbc1f0e059b"
+
+[[files]]
 file = "mods/create_connected-1.2.0-mc1.20.1-all.jar"
 hash = "41b46b5eb03362361fdd3e7e4fa6ffdd713170e3052bfdc681aa5f78629b40ae"
 

@@ -381,10 +381,6 @@ file = "mods/hybrid-aquatic-1.5.4-forge-1.20.1-ru.jar"
 hash = "85ff60250d6bc54de60855e2359f7708e2d156c92ff738faa33b7b877cca5ede"
 
 [[files]]
-file = "mods/immersive-portals-3.0.7-all-ru-chat-filtered-v3.jar"
-hash = "57b5f6d8f95e55aa2f74b763e7f212ef038b21fe18050b488ad2f4417f9d0f5f"
-
-[[files]]
 file = "mods/inventorysorter-forge-1.20.1-1.9.0.jar"
 hash = "3f63334653d3e058203dda719552cd72eba3c9ec4e621ee849717816a797a053"
 

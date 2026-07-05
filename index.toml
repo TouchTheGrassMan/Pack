@@ -497,7 +497,7 @@ file = "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar"
 hash = "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
 
 [[files]]
-file = "mods/serverauth-1.20.1-1.0.0.jar"
+file = "mods/serverauth-1.20.1-1.0.1.jar"
 hash = "b71311badbef65eeea37af8d75f368162a6d44517efe6790485b976ee92c0381"
 
 [[files]]

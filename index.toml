@@ -93,6 +93,10 @@ file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
 hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
 
 [[files]]
+file = "mods/SpartanShields-1.20.1-forge-3.1.1-RU.jar"
+hash = "e02ba47c8ed78c8345547b786e138d3e301f728705ade328b479f38da36e32be"
+
+[[files]]
 file = "mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar"
 hash = "da82605f01a4a43ea0907467583704253c2e718392d44be1cd7b9761edcb0da1"
 
@@ -382,7 +386,7 @@ hash = "57b5f6d8f95e55aa2f74b763e7f212ef038b21fe18050b488ad2f4417f9d0f5f"
 
 [[files]]
 file = "mods/inventorysorter-forge-1.20.1-1.9.0.jar"
-hash = "3c2de29e966184be53a0f39b89b58cfd75e4167dbd0101d3fecc584a8e9f8e2e"
+hash = "3f63334653d3e058203dda719552cd72eba3c9ec4e621ee849717816a797a053"
 
 [[files]]
 file = "mods/ironchest-1.20.1-14.4.4.jar"

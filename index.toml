@@ -386,7 +386,7 @@ hash = "85ff60250d6bc54de60855e2359f7708e2d156c92ff738faa33b7b877cca5ede"
 
 [[files]]
 file = "mods/inventorysorter-forge-1.20.1-1.9.0.jar"
-hash = "3f63334653d3e058203dda719552cd72eba3c9ec4e621ee849717816a797a053"
+hash = "352e09a35c2493b1a77306f4e6b23c606a92a4bcb8529891a2bf1700ef62223f"
 
 [[files]]
 file = "mods/ironchest-1.20.1-14.4.4.jar"
@@ -405,8 +405,16 @@ file = "mods/language-reload-forge-1.7.5+forge-1.20.1.jar"
 hash = "02bc7637cbc56503d2c75c10b8e2d55785cfbd5b509da52d1220f1f2b957e117"
 
 [[files]]
+file = "mods/letsdo-vinery-forge-1.4.41.jar"
+hash = "5d7e11f6e2218562ce75d60788fdcfc9ccf59e4532757c18bf37759d5fc739ee"
+
+[[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
 hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+hash = "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d"
 
 [[files]]
 file = "mods/mcw-lights-1.1.5-mc1.20.1forge-ru.jar"

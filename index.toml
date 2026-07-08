@@ -269,6 +269,10 @@ file = "mods/create-menu-panorama-1.0.2-forge-1.20.1.jar"
 hash = "cd1281e92229ec854503eb0cda5a080401a37afb8b89388f051e3bbc1f0e059b"
 
 [[files]]
+file = "mods/create-train-perspective-1.1.1+mc1.20.1.jar"
+hash = "e5572473c15e1a3af421ecf5249676bbe09398f086060b28da90fbdac69d1e60"
+
+[[files]]
 file = "mods/create_connected-1.2.0-mc1.20.1-all.jar"
 hash = "41b46b5eb03362361fdd3e7e4fa6ffdd713170e3052bfdc681aa5f78629b40ae"
 
@@ -287,6 +291,10 @@ hash = "a1771a4033d9a8d8fad09c765ae11cadffed2e676150965c4b88141e6df18522"
 [[files]]
 file = "mods/createaddition-1.20.1-1.3.3.jar"
 hash = "9bf3ae15d86ec95d128542caf10e4b5498e49ca02f725b9302d6daecd5eae1db"
+
+[[files]]
+file = "mods/createappliedkinetics-1.5.1-1.20.1-RU.jar"
+hash = "a6f3ebeffac6c1edb2303ee17fe26c3fc8221f7bd24e46f72645f1ff6e76f566"
 
 [[files]]
 file = "mods/createbigcannons-5.11.4-mc.1.20.1-forge-blockrecipesfix.jar"
@@ -463,6 +471,14 @@ hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
 [[files]]
 file = "mods/particlerain-4.0.0-beta.10+1.20.1-forge.jar"
 hash = "84b9fa953a77a88b69e9fa80442f4e3c5c92bace4467b014f8128a1128707b7c"
+
+[[files]]
+file = "mods/petrolpark-1.20.1-1.4.27-all.jar"
+hash = "6b419f787a9a068b944f6125c0a362c4ffa73d3650ea1d03c0545c507f8cf01f"
+
+[[files]]
+file = "mods/petrolsparts-1.20.1-1.2.3-all-RU.jar"
+hash = "ab8334f466540e9513148fdd4aa6cd2521a3fa914c83634bb30b93b4b1186f1d"
 
 [[files]]
 file = "mods/pipeorgans-0.8.2-mc1.20.1-ru.jar"

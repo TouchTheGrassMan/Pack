@@ -13,8 +13,8 @@ file = "mods/BetterAdvancements-Forge-1.20.1-0.4.2.60.jar"
 hash = "3fef8ad83c4b99e5074a2d91f0438064751f63574152ab9d2676105803501837"
 
 [[files]]
-file = "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
-hash = "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0"
+file = "mods/BetterF3-7.0.2-Forge-1.20.1-GC-integrated.jar"
+hash = "b75d76dcef2ce8f6c882e8f747fdf92057648a348595a155f7f28445c63d160e"
 
 [[files]]
 file = "mods/BetterPingDisplay-1.20.1-1.1.jar"
@@ -75,6 +75,10 @@ hash = "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5"
 [[files]]
 file = "mods/MaFgLib-0.1.14-mc1.20.1.jar"
 hash = "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1"
+
+[[files]]
+file = "mods/NekosEnchantedBooks-1.19.3-2.0.3.jar"
+hash = "5bf73a759ba9f909321485b60f11e5340c6d522e27d48cabc606696111d37e0d"
 
 [[files]]
 file = "mods/Patchouli-1.20.1-85-FORGE.jar"
@@ -161,12 +165,8 @@ file = "mods/ad_astra-forge-1.20.1-1.15.20.jar"
 hash = "99e274894af7c3b01622a74775a9960b5857b35951888414e733f8c2ec683f26"
 
 [[files]]
-file = "mods/adorablehamsterpets-3.6.0-1.20.1+forge.jar"
-hash = "71a90e4b0ad08321add44cd23cb70805bd4a21c32aad25428393352ee440da0c"
-
-[[files]]
 file = "mods/adorablehamsterpets-3.6.0-1.20.1-forge-RU.jar"
-hash = "867ec6d47c3d431f5c0ab5b48e44171d1d1e5c2b9cbc1c255afb96827e713de3"
+hash = "40ff6f5e7bfdcdef11f61d64dfc2532ee00d3af4e8a3105cfa295f1341a331fc"
 
 [[files]]
 file = "mods/alexsmobs-1.22.9.jar"
@@ -335,6 +335,10 @@ hash = "a2c31b8cb3c8779d094fc8c34d76405189a8b9305ea0bc59fcffdd0050629667"
 [[files]]
 file = "mods/embeddium-0.3.31+mc1.20.1.jar"
 hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+
+[[files]]
+file = "mods/enchantment-descriptions-java-1.3.0-FORGE-RU-tooltipfix.jar"
+hash = "8ac3e1719b046425b83cacc5c33fb98689467b81bf6c12866326e74c8025d00a"
 
 [[files]]
 file = "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar"
@@ -599,6 +603,10 @@ hash = "529257c33bf3cacae473332e029acb1e60807cb8865a96627f2cfbcce736ab8f"
 [[files]]
 file = "mods/xaeroworldmap-forge-1.20.1-1.41.2.jar"
 hash = "abe167275d74585112deb55ce9a09f1472f08d7e8cfde84776c99db2584d4bda"
+
+[[files]]
+file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"
+hash = "79a6a38030cbf94309289e0baff191d51c5b177f17614b0ded64493ba87d41b8"
 
 [[files]]
 file = "servers.dat"

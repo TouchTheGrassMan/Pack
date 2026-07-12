@@ -277,6 +277,10 @@ file = "mods/create_connected-1.2.0-mc1.20.1-all.jar"
 hash = "41b46b5eb03362361fdd3e7e4fa6ffdd713170e3052bfdc681aa5f78629b40ae"
 
 [[files]]
+file = "mods/create_ironchests-1.0.0.jar"
+hash = "bb11aa0f36a7c036156b032a7b6a59c785ef529158a18ce72ad9c7e7815c9163"
+
+[[files]]
 file = "mods/create_power_loader-2.0.3-mc1.20.1.jar"
 hash = "749b9cf51715f3db110f026db3fb2d004a4dc6b5301691ae53b8196a5dff6766"
 
@@ -407,6 +411,10 @@ hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 [[files]]
 file = "mods/jei-1.20.1-forge-15.20.0.130.jar"
 hash = "36d3dfb2214b9dca38c447fd971dd2dedc5f69719a5aca6ffcef69b2840ece0a"
+
+[[files]]
+file = "mods/jukeboxmusicfix-1.1.1.jar"
+hash = "e240a5f8652fe28474498db7feb617ed230a33e561b4f8799ef4ea5ab3d78af8"
 
 [[files]]
 file = "mods/kotlinforforge-4.12.0-all.jar"
@@ -590,7 +598,7 @@ hash = "ad6f98357f073917037908b51edbe8c775730f71f241fd955a976b979464143b"
 
 [[files]]
 file = "mods/trmt-forge-1.20.1-0.5-1.20.1-forge-port.jar"
-hash = "1bff07099133022e3843e62360bb80d11b4ece6bbe349ff7aca0dd9fc44a6182"
+hash = "d4baf8b8cb60988acd63514f977c8bc13a80e7a9110d393eb2bed0b76fe282c6"
 
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
@@ -618,4 +626,4 @@ hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
-hash = "c1a3f1b1fb97f661fd795c1d3dcf7f776f359ba26a66355c634341b94c2c56d6"
+hash = "310198e5605fe38b5f576798e2aae2e8c45ebeabb8b7facbf9b8c939800b485f"

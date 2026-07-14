@@ -421,8 +421,8 @@ file = "mods/jei-1.20.1-forge-15.20.0.130.jar"
 hash = "36d3dfb2214b9dca38c447fd971dd2dedc5f69719a5aca6ffcef69b2840ece0a"
 
 [[files]]
-file = "mods/jukeboxmusicfix-1.1.4.jar"
-hash = "33c11223f5ad95f13fffe53561b019b8f31ac8301a8d157567fafc8a4b13f2ef"
+file = "mods/jukeboxmusicfix-1.1.5.jar"
+hash = "fb2a5f7bf6b366f67dee9a1f5d89121e5cb0323f55c47645ce7ef061c0d3e07c"
 
 [[files]]
 file = "mods/kotlinforforge-4.12.0-all.jar"

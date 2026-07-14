@@ -285,6 +285,10 @@ file = "mods/create_ironchests-1.0.0.jar"
 hash = "bb11aa0f36a7c036156b032a7b6a59c785ef529158a18ce72ad9c7e7815c9163"
 
 [[files]]
+file = "mods/create_ltab-4.0.3.jar"
+hash = "2c7d8a0c7b0f5bea5c21267e0531955b55acfab499d5d5f37d946dced54fc41e"
+
+[[files]]
 file = "mods/create_power_loader-2.0.3-mc1.20.1.jar"
 hash = "749b9cf51715f3db110f026db3fb2d004a4dc6b5301691ae53b8196a5dff6766"
 
@@ -417,8 +421,8 @@ file = "mods/jei-1.20.1-forge-15.20.0.130.jar"
 hash = "36d3dfb2214b9dca38c447fd971dd2dedc5f69719a5aca6ffcef69b2840ece0a"
 
 [[files]]
-file = "mods/jukeboxmusicfix-1.1.2.jar"
-hash = "c9bae4602e806dcb0b66128d6e5cc8424b70769fd058169f24fa88951ab1477f"
+file = "mods/jukeboxmusicfix-1.1.4.jar"
+hash = "33c11223f5ad95f13fffe53561b019b8f31ac8301a8d157567fafc8a4b13f2ef"
 
 [[files]]
 file = "mods/kotlinforforge-4.12.0-all.jar"

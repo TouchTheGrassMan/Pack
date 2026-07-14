@@ -201,6 +201,10 @@ file = "mods/beekeeper-villager-1.1-forge-1.20.1.jar"
 hash = "9e06ded5c75c46b7b828841b5cab7943e5140c844f477df6c8a92761736bb410"
 
 [[files]]
+file = "mods/bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar"
+hash = "90f102b26c410f9dfebf6ea5dfc0ec42b1ac5bde9d4634f5e038a5d17121eb2f"
+
+[[files]]
 file = "mods/biomeinfo-1.20.1-1.7.1-fixed.jar"
 hash = "4e0401ba23a871063a1ac71df6be0dbdde95b1faf45b1802c2258b4a4a28bf80"
 

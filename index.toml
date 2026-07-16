@@ -509,6 +509,10 @@ file = "mods/polytech-0.1.1-forge-1.20.1.jar"
 hash = "73c9546dcb430191002aa69e3a340c37ddf397ba8aa2dbbace4ae7f5865edff5"
 
 [[files]]
+file = "mods/polytechnbtfix-forge-1.20.1-1.0.0.jar"
+hash = "82ce678ce29a7faa92b26bc03e722e13a91d9cce4388b6aff9caa308de7f29a8"
+
+[[files]]
 file = "mods/polytechskins-1.0.0.jar"
 hash = "2c781ec52ae33671efe540b31639447dcb515912a9fa75902c6ec63c76e87052"
 
@@ -517,8 +521,8 @@ file = "mods/powergrid-mc1.20.1-0.5.5.1.jar"
 hash = "ebf1b79894c0bc48ba4773d313eedf55d2eb364604a2610e2941bce58cbe1838"
 
 [[files]]
-file = "mods/private_area-0.8.0-forge-1.20.1.jar"
-hash = "b56c3c1fe8813d785bcf0bb4bbeefe1b2d3fe3f8c6d788f29cbeee76cc997027"
+file = "mods/private_area-0.8.3-forge-1.20.1.jar"
+hash = "ba6c656c331eb1e2943ab1b72d39b783591c6883613772070326e1005ac0e691"
 
 [[files]]
 file = "mods/realisticbees-1.20.1-4.2.jar"

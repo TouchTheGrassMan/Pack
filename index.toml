@@ -97,8 +97,8 @@ file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
 hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
 
 [[files]]
-file = "mods/SpartanShields-1.20.1-forge-3.1.1-RU.jar"
-hash = "e02ba47c8ed78c8345547b786e138d3e301f728705ade328b479f38da36e32be"
+file = "mods/SpartanShields-1.20.1-forge-3.1.1-RU-Full.jar"
+hash = "3c9250006d206c1f8b0269c9110296c532f71ac638579c4fa3466561bc3180ec"
 
 [[files]]
 file = "mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar"
@@ -107,6 +107,10 @@ hash = "da82605f01a4a43ea0907467583704253c2e718392d44be1cd7b9761edcb0da1"
 [[files]]
 file = "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
 hash = "c77a13e3879f9f991cf592abac60ad0c6d2ed17f5ff697ec2db3872b22902d4a"
+
+[[files]]
+file = "mods/The_Graveyard_3.1_FORGE_1.20.1_FULL_RU.jar"
+hash = "cdf8cf907eb49b8f724ec406ebb20152d05173d0c6e57213e7da56861bc87101"
 
 [[files]]
 file = "mods/TreeChop-1.20.1-forge-0.19.0.jar"
@@ -159,10 +163,6 @@ hash = "054b0a1be86510ed6bd05de66a29200f13f5603c0c9eb7e62074ddc3d19cb0e4"
 [[files]]
 file = "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
 hash = "24b3bdc844755e8a39571b5000d8dd829543f7b150d154016ccd926e47d06a71"
-
-[[files]]
-file = "mods/ad_astra-forge-1.20.1-1.15.20.jar"
-hash = "99e274894af7c3b01622a74775a9960b5857b35951888414e733f8c2ec683f26"
 
 [[files]]
 file = "mods/adorablehamsterpets-3.6.0-1.20.1-forge-RU.jar"
@@ -273,6 +273,10 @@ file = "mods/create-menu-panorama-1.0.2-forge-1.20.1.jar"
 hash = "cd1281e92229ec854503eb0cda5a080401a37afb8b89388f051e3bbc1f0e059b"
 
 [[files]]
+file = "mods/create-stuff-additions1.20.1_v2.1.2-FULL-RU.jar"
+hash = "406f3bbb3995edb1bd8ff8859b82ddff441ca76a5389383a8cffef0f91437731"
+
+[[files]]
 file = "mods/create-train-perspective-1.1.1+mc1.20.1.jar"
 hash = "e5572473c15e1a3af421ecf5249676bbe09398f086060b28da90fbdac69d1e60"
 
@@ -293,16 +297,16 @@ file = "mods/create_power_loader-2.0.3-mc1.20.1.jar"
 hash = "749b9cf51715f3db110f026db3fb2d004a4dc6b5301691ae53b8196a5dff6766"
 
 [[files]]
-file = "mods/create_radar-0.4.6+mc1.20.1-ru-full.jar"
-hash = "854e4b437626228a976b808671209922eccfeb66ea89b98c1552cf66243e20df"
+file = "mods/create_radar-0.4.6+mc1.20.1-RU-Full(1).jar"
+hash = "6b3c91ac1ed35b2f72a5842bc069aa37f1be34b7421b310a637eb152ecc880b3"
 
 [[files]]
 file = "mods/create_tacz_mobilization-1.0.0.jar"
 hash = "a1771a4033d9a8d8fad09c765ae11cadffed2e676150965c4b88141e6df18522"
 
 [[files]]
-file = "mods/createaddition-1.20.1-1.3.3.jar"
-hash = "9bf3ae15d86ec95d128542caf10e4b5498e49ca02f725b9302d6daecd5eae1db"
+file = "mods/createaddition-1.20.1-1.3.3-ru-fixed.jar"
+hash = "9171b83901415240be8e3a82cc5f19c565cc5b857b984b38606955dcef7193db"
 
 [[files]]
 file = "mods/createappliedkinetics-1.5.1-1.20.1-RU.jar"
@@ -317,8 +321,8 @@ file = "mods/createdeco-2.0.3-1.20.1-forge.jar"
 hash = "7d6dd0094d18d6bab64fcd7de680ea736015d1a1ffc472d3fe03122bc7aa0864"
 
 [[files]]
-file = "mods/createfisheryindustry-1.20-5.0.2-ru.jar"
-hash = "192451534cbbdf2781a15cd3f22bc7d06e945b8e396daa5115396e9e488b006f"
+file = "mods/createfisheryindustry-1.20-5.0.2-ru-harpoon-enchant-fix3.jar"
+hash = "e07490ec1577a976967a670f03275cab0ffa4ac2c4b87662ff34d4620f38ac66"
 
 [[files]]
 file = "mods/creativesearchprewarm-1.0.0.jar"
@@ -338,19 +342,15 @@ hash = "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"
 
 [[files]]
 file = "mods/eatinganimation-1.20.1-5.1.0.jar"
-hash = "506ffc2e2bcc5709c8121382c5d0428ca642ceaeebe2a9169c9b0475a83c657c"
+hash = "878561fcf3d90c661760e2fd38ce9a1e3f4bc92ae26a7257ab5f1671e14990b7"
 
 [[files]]
 file = "mods/effectual-forge-1.3.1-1.20.1.jar"
 hash = "a2c31b8cb3c8779d094fc8c34d76405189a8b9305ea0bc59fcffdd0050629667"
 
 [[files]]
-file = "mods/embeddium-0.3.31+mc1.20.1.jar"
-hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
-
-[[files]]
-file = "mods/enchantment-descriptions-java-1.3.0-FORGE-RU-tooltipfix.jar"
-hash = "8ac3e1719b046425b83cacc5c33fb98689467b81bf6c12866326e74c8025d00a"
+file = "mods/embeddium-0.3.31+mc1.20.1-FULL-RU-v3.jar"
+hash = "517d4088f149d5d903ace6f5cde7e1033d5f072235db26c47ea3b60e7532f5db"
 
 [[files]]
 file = "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar"
@@ -359,6 +359,10 @@ hash = "18f9f0bf3a9b4f77ad6913c28ccb927cde24f5d19524152cfe79ebb3dcccacc5"
 [[files]]
 file = "mods/entityculling-forge-1.10.2-mc1.20.1.jar"
 hash = "34da8e10cf31ade2b86b02e4f55c4d3b480a0992148ac12f9ec49eb7be4bfda0"
+
+[[files]]
+file = "mods/escalated-1.2.1+create.6.0.8-mc.1.20.1-forge.jar"
+hash = "3dbae4821d2f57b1cc689f4353ff4d6f7e573252527da53d3ca72dda1fd884e2"
 
 [[files]]
 file = "mods/fallingleaves-1.20.1-2.1.2.jar"
@@ -399,6 +403,10 @@ hash = "3e63e9adb1cd273ce9881593c64b513477ebefeceb6b11f29a09b2237a422ace"
 [[files]]
 file = "mods/guideme-20.1.14.jar"
 hash = "a0ba5a0288dab6e413f1456de8dd162f9479146ee681569837f6d6b17930a0e2"
+
+[[files]]
+file = "mods/hauntedharvest-1.20-3.2.0-ru.jar"
+hash = "6102f198ce96ea193ed567b8d2a339604af9ce4bbc033d6cdd6f3001e80281e0"
 
 [[files]]
 file = "mods/hitindication-1.20.1-1.4.jar"
@@ -457,6 +465,10 @@ file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
 hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
 
 [[files]]
+file = "mods/mimicer-1.20.1-1.7.0.jar"
+hash = "3940f5b007734a66421c36f48be8a2bc9142ec90b0e90ebb6f4a591beac199dc"
+
+[[files]]
 file = "mods/modelfix-1.15.jar"
 hash = "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16"
 
@@ -485,8 +497,8 @@ file = "mods/oceans-delight-1.0.2-1.20-ru.jar"
 hash = "cac6a1340e612990764f9da1194fc1997558fbdea9734f2b3f947eaaa1f05088"
 
 [[files]]
-file = "mods/oculus-mc1.20.1-1.8.0.jar"
-hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+file = "mods/oculus-mc1.20.1-1.8.0-FULL-RU.jar"
+hash = "72827d850a1babcb88eb53da9ee29c6cca6143206dc525c595e25c755a982431"
 
 [[files]]
 file = "mods/particlerain-4.0.0-beta.10+1.20.1-forge.jar"
@@ -521,8 +533,12 @@ file = "mods/powergrid-mc1.20.1-0.5.5.1.jar"
 hash = "ebf1b79894c0bc48ba4773d313eedf55d2eb364604a2610e2941bce58cbe1838"
 
 [[files]]
-file = "mods/private_area-0.8.3-forge-1.20.1.jar"
-hash = "ba6c656c331eb1e2943ab1b72d39b783591c6883613772070326e1005ac0e691"
+file = "mods/private_area-0.8.7-forge-1.20.1.jar"
+hash = "b1ad3e71a6f56647950792b7f8b9be33dafae7760847d67b2ea2e8a9d1387414"
+
+[[files]]
+file = "mods/qu4d-enchantment-tooltips-1.0.2-forge-1.20.1.jar"
+hash = "e9106cf70188cafa0225cec54f06bc64ccae6d92557e325ee7fb69f855b4609d"
 
 [[files]]
 file = "mods/realisticbees-1.20.1-4.2.jar"
@@ -617,12 +633,16 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = "mods/xaerominimap-forge-1.20.1-26.1.0.jar"
-hash = "529257c33bf3cacae473332e029acb1e60807cb8865a96627f2cfbcce736ab8f"
+file = "mods/xaerominimap-forge-1.20.1-26.1.0-RU-Full.jar"
+hash = "6dd05078140b85f30b910172b7301ef7f6a54433c68d2b6e65461f2a3806d806"
 
 [[files]]
-file = "mods/xaeroworldmap-forge-1.20.1-1.41.2.jar"
-hash = "abe167275d74585112deb55ce9a09f1472f08d7e8cfde84776c99db2584d4bda"
+file = "mods/xaeroworldmap-forge-1.20.1-1.41.2-RU-Full.jar"
+hash = "7d766acbb0d0a363e991606f48722a6ab609737f2351884945f8bb99dfc49a47"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
 
 [[files]]
 file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"
@@ -634,7 +654,7 @@ hash = "2578d9a6a4c4742634641592d80436ec6c05f4c8a68ab2c102e4e43156c06a72"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
-hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
+hash = "be75d8373832773ed1e489a4f2ab4b8ac533acd30193dda0c90df20d8df2d43e"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"

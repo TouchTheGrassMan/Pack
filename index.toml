@@ -17,6 +17,10 @@ file = "mods/BetterF3-7.0.2-Forge-1.20.1-GC-integrated.jar"
 hash = "b75d76dcef2ce8f6c882e8f747fdf92057648a348595a155f7f28445c63d160e"
 
 [[files]]
+file = "mods/BetterGrassify-1.4.4+forge-native.6.6-trmt.1.20.1.jar"
+hash = "53ca35318e064a3a3c5bfae5bab45aecd022764f3715ecce34b820852cc06c30"
+
+[[files]]
 file = "mods/BetterPingDisplay-1.20.1-1.1.jar"
 hash = "055e30e18e836f41879093e9e60842019d529a0205a6fa0c05e607a3cc9815db"
 
@@ -534,7 +538,7 @@ hash = "ebf1b79894c0bc48ba4773d313eedf55d2eb364604a2610e2941bce58cbe1838"
 
 [[files]]
 file = "mods/private_area-0.8.7-forge-1.20.1.jar"
-hash = "b1ad3e71a6f56647950792b7f8b9be33dafae7760847d67b2ea2e8a9d1387414"
+hash = "2660a55835d97a0c42874eda253407b3cd72112e4fc64851c9e2fbd5d7c32b62"
 
 [[files]]
 file = "mods/qu4d-enchantment-tooltips-1.0.2-forge-1.20.1.jar"

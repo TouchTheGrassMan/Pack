@@ -89,6 +89,10 @@ file = "mods/Patchouli-1.20.1-85-FORGE.jar"
 hash = "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
 
 [[files]]
+file = "mods/Presence Footsteps [FORGE] 1.0.0.jar"
+hash = "290cce2b6e9916c5713769fc830475d8a51e9745f5b33688e32a35dd10d43e37"
+
+[[files]]
 file = "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
 hash = "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
 
@@ -523,6 +527,10 @@ hash = "176929d5614d14e2470d59b8f19c79301295560c04b7b0f97379983f6a85afe8"
 [[files]]
 file = "mods/polytech-0.1.1-forge-1.20.1.jar"
 hash = "73c9546dcb430191002aa69e3a340c37ddf397ba8aa2dbbace4ae7f5865edff5"
+
+[[files]]
+file = "mods/polytechhub-1.0.0.jar"
+hash = "6102506ab3c472ad87fe890f266429f42ceea9824b4a0a0744e987fff094d6f3"
 
 [[files]]
 file = "mods/polytechnbtfix-forge-1.20.1-1.0.0.jar"

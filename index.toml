@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/polytechhub/keylayouts/classic.txt"
+hash = "5e181a4fe5ec7a86548c591c4d03b218175ea40ab75c9beabde2b1691c12a641"
+
+[[files]]
+file = "config/polytechhub/keylayouts/shooter.txt"
+hash = "4ac2711da81d4d2f8eb6c1f4319b4fb0ce3ea2a59b895001957a17b250534846"
+
+[[files]]
 file = "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar"
 hash = "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b"
 
@@ -530,7 +538,7 @@ hash = "73c9546dcb430191002aa69e3a340c37ddf397ba8aa2dbbace4ae7f5865edff5"
 
 [[files]]
 file = "mods/polytechhub-1.0.0.jar"
-hash = "6102506ab3c472ad87fe890f266429f42ceea9824b4a0a0744e987fff094d6f3"
+hash = "9816a44ae71f42cc038345311ff5e738b0108b2d8fa983b4bcb0d15140b838f1"
 
 [[files]]
 file = "mods/polytechnbtfix-forge-1.20.1-1.0.0.jar"

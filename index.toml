@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/polytechhub/keylayouts/classic.txt"
-hash = "5e181a4fe5ec7a86548c591c4d03b218175ea40ab75c9beabde2b1691c12a641"
+hash = "ad046e5b2549595b43b8c376f83997244fd121f2297aa04ddad0b77aa9c77c85"
 
 [[files]]
 file = "config/polytechhub/keylayouts/shooter.txt"
-hash = "4ac2711da81d4d2f8eb6c1f4319b4fb0ce3ea2a59b895001957a17b250534846"
+hash = "4f00f101106d84c8e728ef06353f959302b9cad058e9653b4e3606fa6f50b691"
 
 [[files]]
 file = "mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar"

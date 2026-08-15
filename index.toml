@@ -113,8 +113,8 @@ file = "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
 hash = "c77a13e3879f9f991cf592abac60ad0c6d2ed17f5ff697ec2db3872b22902d4a"
 
 [[files]]
-file = "mods/The_Graveyard_3.1_FORGE_1.20.1_FULL_RU.jar"
-hash = "cdf8cf907eb49b8f724ec406ebb20152d05173d0c6e57213e7da56861bc87101"
+file = "mods/The_Graveyard_3.1_FORGE_1.20.1_FULL_RU_CONFIG_FIX.jar"
+hash = "cabea034660a747a1aff45414ddebfbc3e5812f06bb96ca191b3a677f082766d"
 
 [[files]]
 file = "mods/TreeChop-1.20.1-forge-0.19.0.jar"

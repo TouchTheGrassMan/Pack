@@ -373,6 +373,14 @@ file = "mods/endermanoverhaul-forge-1.20.1-1.0.4.jar"
 hash = "18f9f0bf3a9b4f77ad6913c28ccb927cde24f5d19524152cfe79ebb3dcccacc5"
 
 [[files]]
+file = "mods/entity_model_features-3.2.4-1.20.1-forge.jar"
+hash = "0984570913a154ef65ebca54ac797fec11721c5e24aeceeb285b8ca2f562b35e"
+
+[[files]]
+file = "mods/entity_texture_features_1.20.1-forge-7.1.jar"
+hash = "96b70f55efc64e5149ff977f065385d1634b8cbb71be856a0c7261c62c92f18c"
+
+[[files]]
 file = "mods/entityculling-forge-1.10.2-mc1.20.1.jar"
 hash = "34da8e10cf31ade2b86b02e4f55c4d3b480a0992148ac12f9ec49eb7be4bfda0"
 
@@ -538,7 +546,7 @@ hash = "73c9546dcb430191002aa69e3a340c37ddf397ba8aa2dbbace4ae7f5865edff5"
 
 [[files]]
 file = "mods/polytechhub-1.0.0.jar"
-hash = "5932b379a205c107caee2afc00eba578d4ff38dc27b8b4ac77f4a68745e79c91"
+hash = "3e5bfac9107d901c5266d7ac9f6c16ca2e42e0a3d83bcac07dad51cfa0cfe986"
 
 [[files]]
 file = "mods/polytechnbtfix-forge-1.20.1-1.0.0.jar"
@@ -653,12 +661,12 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = "mods/xaerominimap-forge-1.20.1-26.1.0-RU-Full.jar"
-hash = "6dd05078140b85f30b910172b7301ef7f6a54433c68d2b6e65461f2a3806d806"
+file = "mods/xaerominimap-forge-1.20.1-26.1.0-RU-Full-NO-UPDATE.jar"
+hash = "cce41eb63e219d150dc1750c839138029a87435f46af8756f5c79a8bd51191a4"
 
 [[files]]
-file = "mods/xaeroworldmap-forge-1.20.1-1.41.2-RU-Full.jar"
-hash = "7d766acbb0d0a363e991606f48722a6ab609737f2351884945f8bb99dfc49a47"
+file = "mods/xaeroworldmap-forge-1.20.1-1.41.2-RU-Full-NO-UPDATE.jar"
+hash = "f1bf741484686e87e1e193a127eb45d0a0ef4ecb3bc5b57b3c7b6d6aaa9c3293"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.10.4.zip"

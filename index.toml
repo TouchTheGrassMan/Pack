@@ -285,10 +285,6 @@ file = "mods/create-hypertube-0.4.0-forge-ru.jar"
 hash = "2084674b6e6384f2195cffd454992f69e82e4bbcd4cf9c1ba56de82a66cbf69a"
 
 [[files]]
-file = "mods/create-menu-panorama-1.0.2-forge-1.20.1.jar"
-hash = "cd1281e92229ec854503eb0cda5a080401a37afb8b89388f051e3bbc1f0e059b"
-
-[[files]]
 file = "mods/create-stuff-additions1.20.1_v2.1.2-FULL-RU.jar"
 hash = "406f3bbb3995edb1bd8ff8859b82ddff441ca76a5389383a8cffef0f91437731"
 
@@ -546,7 +542,7 @@ hash = "73c9546dcb430191002aa69e3a340c37ddf397ba8aa2dbbace4ae7f5865edff5"
 
 [[files]]
 file = "mods/polytechhub-1.0.0.jar"
-hash = "3e5bfac9107d901c5266d7ac9f6c16ca2e42e0a3d83bcac07dad51cfa0cfe986"
+hash = "16e5393fbde9f8b27f47d253df2e81bd7c41d698d3bd7f08812c90da78160906"
 
 [[files]]
 file = "mods/polytechnbtfix-forge-1.20.1-1.0.0.jar"

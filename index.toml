@@ -557,8 +557,8 @@ file = "mods/powergrid-mc1.20.1-0.5.5.1.jar"
 hash = "ebf1b79894c0bc48ba4773d313eedf55d2eb364604a2610e2941bce58cbe1838"
 
 [[files]]
-file = "mods/private_area-0.8.7-forge-1.20.1.jar"
-hash = "2660a55835d97a0c42874eda253407b3cd72112e4fc64851c9e2fbd5d7c32b62"
+file = "mods/private_area-0.9.2-forge-1.20.1.jar"
+hash = "9f547878d29b6f08ac8cf38977fe90f8ba086bbb2e36be12f8c6c005c5649d7d"
 
 [[files]]
 file = "mods/qu4d-enchantment-tooltips-1.0.2-forge-1.20.1.jar"

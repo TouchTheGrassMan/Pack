@@ -393,6 +393,10 @@ file = "mods/fantasy_armor-forge-1.2.4-1.20.1.jar"
 hash = "60723448eb979d29da51bd6fe71e6ef1b695decd3d91da76f1e970664bf80693"
 
 [[files]]
+file = "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar"
+hash = "559115ba1031affa8733c89c4558f44cc97471210f28de7437270684b4242f7a"
+
+[[files]]
 file = "mods/festive-delight-2.0.0-forge-1.20.1-ru.jar"
 hash = "dacbc771976b22dbb5b784f764004a3c32337ce1fd1956f551b5a9ff2bb9bb49"
 

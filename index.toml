@@ -669,8 +669,8 @@ file = "mods/xaeroworldmap-forge-1.20.1-1.41.2-RU-Full-NO-UPDATE.jar"
 hash = "f1bf741484686e87e1e193a127eb45d0a0ef4ecb3bc5b57b3c7b6d6aaa9c3293"
 
 [[files]]
-file = "resourcepacks/PolyTech_Fresh_Villagers_Compat_1.20.1_v1.0.0.zip"
-hash = "4555a07a496fdc3896d86b961cff1ad2d4399281bbaf5f746bdfb81a032534a6"
+file = "resourcepacks/FreshAnimations_v1.10.4_PolyTech_Fixed.zip"
+hash = "fc6432f3fb016f4e72a87cf6c6b3892b4db44808bf96fc61fe7866f181dcb388"
 
 [[files]]
 file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"

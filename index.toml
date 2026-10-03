@@ -546,7 +546,7 @@ hash = "73c9546dcb430191002aa69e3a340c37ddf397ba8aa2dbbace4ae7f5865edff5"
 
 [[files]]
 file = "mods/polytechhub-1.0.0.jar"
-hash = "719ee298030809d28501910d2ab5f372270d8c175499cb491ecc52ed60a26ce9"
+hash = "c76ea5dcde069cd931c4c2866f61c61c75d74865b19f035bf0eb7993fc56b870"
 
 [[files]]
 file = "mods/polytechnbtfix-forge-1.20.1-1.0.0.jar"
@@ -563,6 +563,10 @@ hash = "ebf1b79894c0bc48ba4773d313eedf55d2eb364604a2610e2941bce58cbe1838"
 [[files]]
 file = "mods/private_area-0.9.2-forge-1.20.1.jar"
 hash = "9f547878d29b6f08ac8cf38977fe90f8ba086bbb2e36be12f8c6c005c5649d7d"
+
+[[files]]
+file = "mods/private_area_loot-1.0.0-forge-1.20.1.jar"
+hash = "e75897709e6aced01a842e83a95c293df90be72fd665e3de2d1e7f9d5846d235"
 
 [[files]]
 file = "mods/qu4d-enchantment-tooltips-1.0.2-forge-1.20.1.jar"

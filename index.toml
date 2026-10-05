@@ -566,7 +566,7 @@ hash = "9f547878d29b6f08ac8cf38977fe90f8ba086bbb2e36be12f8c6c005c5649d7d"
 
 [[files]]
 file = "mods/private_area_loot-1.0.0-forge-1.20.1.jar"
-hash = "e75897709e6aced01a842e83a95c293df90be72fd665e3de2d1e7f9d5846d235"
+hash = "dd58fed513ffb6d7de0376e01c9d47779c69f7db18dda2b750e0b7e799083a98"
 
 [[files]]
 file = "mods/qu4d-enchantment-tooltips-1.0.2-forge-1.20.1.jar"
@@ -594,7 +594,7 @@ hash = "5531ec454792f98993fa29d55f8810444ba3e9ef8f04331c5811b84ec8d0c3dc"
 
 [[files]]
 file = "mods/serverauth-1.20.1-0.1.0.jar"
-hash = "1c0db7fef29ac2e7ff6d7f17f4231051b94082ec53ed13618d8ca245f6afaaad"
+hash = "04093d1963964a74df7070ca8da60ff5b498570ab13c387e844a69a89e5ed743"
 
 [[files]]
 file = "mods/smarterfarmers-1.20-2.1.2.jar"

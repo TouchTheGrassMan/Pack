@@ -181,6 +181,10 @@ file = "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
 hash = "24b3bdc844755e8a39571b5000d8dd829543f7b150d154016ccd926e47d06a71"
 
 [[files]]
+file = "mods/adminpp-1.20.1-1.0.0.jar"
+hash = "4a6174c658c044116d1ee1c3a0ea122768031d5f78c65f981b8d4d6686195af5"
+
+[[files]]
 file = "mods/adorablehamsterpets-3.6.0-1.20.1-forge-RU.jar"
 hash = "40ff6f5e7bfdcdef11f61d64dfc2532ee00d3af4e8a3105cfa295f1341a331fc"
 

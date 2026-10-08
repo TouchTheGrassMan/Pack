@@ -365,6 +365,10 @@ file = "mods/crittersandcompanions-forge-1.20.1-2.3.5.jar"
 hash = "d7be3f0ed78eb4d0f8f607c969a600f45644da5b3cf5bf4e89c977c4af452701"
 
 [[files]]
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
 file = "mods/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
 hash = "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"
 
@@ -415,6 +419,10 @@ hash = "559115ba1031affa8733c89c4558f44cc97471210f28de7437270684b4242f7a"
 [[files]]
 file = "mods/festive-delight-2.0.0-forge-1.20.1-ru.jar"
 hash = "dacbc771976b22dbb5b784f764004a3c32337ce1fd1956f551b5a9ff2bb9bb49"
+
+[[files]]
+file = "mods/fragmentum-5.2.0+1.20.1-forge.jar"
+hash = "a003fedce92c52ef377e48fc3779cb2506be1ce7f947c88f1eb241b2992c16b4"
 
 [[files]]
 file = "mods/fruitsdelight-1.1.2-ru.jar"
@@ -485,6 +493,10 @@ file = "mods/letsdo-vinery-forge-1.4.41.jar"
 hash = "5d7e11f6e2218562ce75d60788fdcfc9ccf59e4532757c18bf37759d5fc739ee"
 
 [[files]]
+file = "mods/lionfishapi-3.0.jar"
+hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
+
+[[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
 hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
@@ -531,6 +543,10 @@ hash = "1664f89c980e8684eb9598e381612b5cc72d68f7c04ab99c20ff23fac400844b"
 [[files]]
 file = "mods/nyfsspiders-Forge-1.20.1-3.0.1.jar"
 hash = "48e5a09cf35f002e28e5287c831e78eaa8b2c58caa0535e5266ac1a3b4e48dd9"
+
+[[files]]
+file = "mods/obscure_api-18.jar"
+hash = "14f099e9b8c1cae0c98b5ccb792d5eaf56b71c456cf2c2d59de3c175be3e3b7e"
 
 [[files]]
 file = "mods/oceans-delight-1.0.2-1.20-ru.jar"

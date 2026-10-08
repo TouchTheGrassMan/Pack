@@ -85,6 +85,10 @@ file = "mods/Jade-1.20.1-Forge-11.13.2.jar"
 hash = "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5"
 
 [[files]]
+file = "mods/L_Enders_Cataclysm-3.31-RU-full.jar"
+hash = "37f89c5137ef10f834f6f802dc898a0425cf248f5a39c394d7f299018547524f"
+
+[[files]]
 file = "mods/MaFgLib-0.1.14-mc1.20.1.jar"
 hash = "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1"
 
@@ -207,6 +211,14 @@ hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 [[files]]
 file = "mods/appliedenergistics2-forge-15.4.10-ru-full-v2.jar"
 hash = "f11fa7d70f1878229dc054b96ec192ad98a7b7638265334de7e226481bbe0e2b"
+
+[[files]]
+file = "mods/aquamirae-forge-1.20.1-7.1.14-RU-full.jar"
+hash = "4bfa8a10b35ad817d140fae9cdf9c01d152c37bd70acac1b7e929a4148085b95"
+
+[[files]]
+file = "mods/aquamirae_delight-2.2-forge-1.20.1-RU-full.jar"
+hash = "0739897d038791988a77b8cedc7bbca5dc4626254c00558278bc319242d236ff"
 
 [[files]]
 file = "mods/architectury-9.2.14-forge.jar"

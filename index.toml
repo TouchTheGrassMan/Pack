@@ -689,6 +689,10 @@ file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"
 hash = "79a6a38030cbf94309289e0baff191d51c5b177f17614b0ded64493ba87d41b8"
 
 [[files]]
+file = "servers.dat"
+hash = "42b575b0ab4a82b0fcc212dbab845884bc668c6ba23a74a6d2fbafcf0a2091ee"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
 hash = "be75d8373832773ed1e489a4f2ab4b8ac533acd30193dda0c90df20d8df2d43e"
 

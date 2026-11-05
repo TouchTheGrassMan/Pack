@@ -377,8 +377,8 @@ file = "mods/doxhitbox-1.2.0-securityfix2.jar"
 hash = "0d67166d164beee66c88a2bc66a3a067d38f6e6e89f044654729c36924fe7501"
 
 [[files]]
-file = "mods/doxlean-1.4.0.jar"
-hash = "5cbaebd936c34c3dbe083c1c59013ae3d139f700eb184deeaa208678252ed984"
+file = "mods/doxlean-1.4.0-tacz-controls1.jar"
+hash = "d648dc0f43ccac59365d6e1aedaca49063f922422687a9121dcfe75375dc8240"
 
 [[files]]
 file = "mods/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"

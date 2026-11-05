@@ -369,6 +369,18 @@ file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
 [[files]]
+file = "mods/doxcore-1.1.0.jar"
+hash = "608008460ced9062bc1d9ca13387f253dbec529c1c94346e2b9caa97838d25a5"
+
+[[files]]
+file = "mods/doxhitbox-1.2.0-securityfix1.jar"
+hash = "ddbfe61d3ea2fb7689450788d148858e2074e264e2dd9813ead945daee39f309"
+
+[[files]]
+file = "mods/doxlean-1.4.0.jar"
+hash = "5cbaebd936c34c3dbe083c1c59013ae3d139f700eb184deeaa208678252ed984"
+
+[[files]]
 file = "mods/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
 hash = "f02d2bcb995ee5531555995d6625571bc7f3518fa3f5e45bba230d08cd89a608"
 

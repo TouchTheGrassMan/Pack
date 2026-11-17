@@ -717,6 +717,10 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
+file = "mods/weatherglass-0.6.2-1.20.1-forge.jar"
+hash = "2c58e2b6386d93ffd93b8086a9ddc2e8a81c89c49cdefcd9fd4dd17cd75de615"
+
+[[files]]
 file = "mods/xaerominimap-forge-1.20.1-26.1.0-RU-Full-NO-UPDATE.jar"
 hash = "cce41eb63e219d150dc1750c839138029a87435f46af8756f5c79a8bd51191a4"
 
